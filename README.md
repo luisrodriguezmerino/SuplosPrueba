@@ -13,3 +13,5 @@ Prueba suplos desarrollador backend
   - Crear una base de datos llamada "db_suplostest" por phpmyadmin y importar la estructura de la DB.
   - Puede usar las credenciales de su base de datos , o crear un usuario y contraseña y agregar las credenciales que se encuentran en el archivo "php/Conexion.php"
   
+# Notas :
+  - En el apartado de agregar y eliminar elementos en la base de datos , se debe recargar la pagina para que los cambios sean visibles.
